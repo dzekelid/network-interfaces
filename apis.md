@@ -5,7 +5,7 @@ description: This is a repository of network interfaces APIs, self-contained as 
   operations.
 image: http://template.streamdata.gallery/assets/network-interfaces.png
 created: "2018-02-24"
-modified: "2018-05-20"
+modified: "2018-06-20"
 url: http://network-interfaces.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
